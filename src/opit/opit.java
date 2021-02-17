@@ -2,5 +2,5 @@ package opit;
 
 public class opit 
 {
-	int a = 5;
+	int a = 55;
 }
